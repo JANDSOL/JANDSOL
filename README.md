@@ -1,13 +1,32 @@
-## 👋 Hello, I am Juan Andrade
+# 👋 Hello, I am Juan Andrade
 
-Software engineer specialized in Python, FastAPI and scalable backend systems.
-
-### 🚀 Featured projects
-- 🌐 **<a href="https://github.com/JANDSOL/churn_prediction" target="_blank">Churn prediction</a>** – Supervised model for customer retention.
-_Python · ML · scikit-learn · Pandas · Matplotlib · Jupyter Notebooks_
-
-### 🧠 Areas of focus
-- Backend (Python, FastAPI, Django)
-- AI applied to business
+Full Stack Software Engineer specialized in scalable backend systems.
+Strong experience with Python, Django and FastAPI.
+Frontend experience with React.js and Next.js.
 
 📫 Contact: [LinkedIn](https://linkedin.com/in/jandsol/) | [WhatsApp](https://wa.me/593980164731) | [Email](mailto:jpas.juan01@gmail.com)
+
+---
+
+## 🚀 Featured projects
+
+- **🔒 Retail Sync Nexus**
+    Modular back-office system for small retailers covering inventory, sales, customers, credits, and cash collection.
+    _**Highlights:** Service-layer Django architecture · stock-aware sales flows · async reports with Redis/RQ · real-time updates via WebSockets · Dockerized stack with Prometheus/Grafana/Loki.
+    **Tech:** Python · Django · PostgreSQL · Redis · RQ · Django Channels · Docker · Nginx · TailwindCSS · Flowbite_
+- 🔒 **[Quiz Engineer](quiz-engineer-photos/)**
+    Full-stack engineering quiz and simulator for thermodynamics, combining conceptual questions with an interactive Brayton cycle workflow.
+    _**Highlights:** Dynamic quiz engine driven by JSON datasets · interactive Brayton cycle visualization · real-time simulator steps with charts and math rendering · typed FastAPI calculation API · numeric solving with SciPy · Dockerized full-stack setup.
+    **Tech:** React · TypeScript · Vite · Chart.js · KaTeX · Python · FastAPI · SciPy · Docker_
+
+- 🌐 **[Churn prediction](https://github.com/JANDSOL/churn_prediction)**
+    Supervised model for customer retention.
+  _**Tech:** Python · scikit-learn · Pandas · Matplotlib
+  **Tools:** Jupyter Notebook_
+
+---
+
+## 🧠 Areas of focus
+
+- Backend (Python, FastAPI, Django)
+- AI applied to business
