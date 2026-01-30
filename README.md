@@ -3,7 +3,7 @@
 Software engineer specialized in Python, FastAPI and scalable backend systems.
 
 ### 🚀 Featured projects
-- 🌐 **[Churn prediction](https://github.com/JANDSOL/churn_prediction)** – Supervised model for customer retention.
+- 🌐 **<a href="https://github.com/JANDSOL/churn_prediction" target="_blank">Churn prediction</a>** – Supervised model for customer retention.
 
 ### 🧠 Areas of focus
 - Backend (Python, FastAPI, Django)
