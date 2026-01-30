@@ -10,23 +10,28 @@ Frontend experience with React.js and Next.js.
 
 ## 🚀 Featured projects
 
-- **🔒 Retail Sync Nexus**
-    Modular back-office system for small retailers covering inventory, sales, customers, credits, and cash collection.
-    _**Highlights:** Service-layer Django architecture · stock-aware sales flows · async reports with Redis/RQ · real-time updates via WebSockets · Dockerized stack with Prometheus/Grafana/Loki.
-    **Tech:** Python · Django · PostgreSQL · Redis · RQ · Django Channels · Docker · Nginx · TailwindCSS · Flowbite_
-- 🔒 **[Quiz Engineer](quiz-engineer-photos/)**
-    Full-stack engineering quiz and simulator for thermodynamics, combining conceptual questions with an interactive Brayton cycle workflow.
-    _**Highlights:** Dynamic quiz engine driven by JSON datasets · interactive Brayton cycle visualization · real-time simulator steps with charts and math rendering · typed FastAPI calculation API · numeric solving with SciPy · Dockerized full-stack setup.
-    **Tech:** React · TypeScript · Vite · Chart.js · KaTeX · Python · FastAPI · SciPy · Docker_
+- **🔒 RETAIL SYNC NEXUS**  
+  Modular back-office system for small retailers covering inventory, sales, customers, credits, and cash collection.
 
-- 🌐 **[Churn prediction](https://github.com/JANDSOL/churn_prediction)**
-    Supervised model for customer retention.
-  _**Tech:** Python · scikit-learn · Pandas · Matplotlib
-  **Tools:** Jupyter Notebook_
+  **Highlights:** Service-layer Django architecture · stock-aware sales flows · async reports with Redis/RQ · real-time updates via WebSockets · Dockerized stack with Prometheus/Grafana/Loki.  
+  **Tech:** Python · Django · PostgreSQL · Redis · RQ · Django Channels · Docker · Nginx · TailwindCSS · Flowbite
+
+- 🔒 **[QUIZ ENGINEER](quiz-engineer-photos/)**  
+  Full-stack engineering quiz and simulator for thermodynamics, combining conceptual questions with an interactive Brayton cycle workflow.
+
+  **Highlights:** Dynamic quiz engine driven by JSON datasets · interactive Brayton cycle visualization · real-time simulator steps with charts and math rendering · typed FastAPI calculation API · numeric solving with SciPy · Dockerized full-stack setup.  
+  **Tech:** React · TypeScript · Vite · Chart.js · KaTeX · Python · FastAPI · SciPy · Docker
+
+- 🌐 **[CHURN PREDICTION](https://github.com/JANDSOL/churn_prediction)**  
+  Supervised model for customer retention.
+
+  **Tech:** Python · scikit-learn · Pandas · Matplotlib  
+  **Tools:** Jupyter Notebook
 
 ---
 
 ## 🧠 Areas of focus
 
 - Backend (Python, FastAPI, Django)
+- Frontend (React.js, Next.js)
 - AI applied to business
