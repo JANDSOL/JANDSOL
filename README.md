@@ -1,12 +1,12 @@
-## 👋 Hola, soy Juan
+## 👋 Hi, I'm Juan
 
-Ingeniero de Software especializado en Python, FastAPI y sistemas backend escalables.
+Software engineer specialized in Python, FastAPI and scalable backend systems.
 
-### 🚀 Proyectos destacados
-- **Churn Prediction** – Modelo supervisado para retención de clientes.
+### 🚀 Featured projects
+- 🌐 **[Churn prediction](https://github.com/JANDSOL/churn_prediction)** – Supervised model for customer retention.
 
-### 🧠 Áreas de enfoque
+### 🧠 Areas of focus
 - Backend (Python, FastAPI, Django)
-- IA aplicada a negocio
+- AI applied to business
 
-📫 Contacto: [LinkedIn](https://linkedin.com/in/jandsol/) | [Email](mailto:jpas.juan01@gmail.com)
+📫 Contact: [LinkedIn](https://linkedin.com/in/jandsol/) | [WhatsApp](https://wa.me/593980164731) | [Email](mailto:jpas.juan01@gmail.com)
