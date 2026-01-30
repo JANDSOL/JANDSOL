@@ -1,9 +1,10 @@
-## 👋 Hi, I'm Juan
+## 👋 Hello, I am Juan Andrade
 
 Software engineer specialized in Python, FastAPI and scalable backend systems.
 
 ### 🚀 Featured projects
 - 🌐 **<a href="https://github.com/JANDSOL/churn_prediction" target="_blank">Churn prediction</a>** – Supervised model for customer retention.
+_Python · ML · scikit-learn · Pandas · Matplotlib · Jupyter Notebooks_
 
 ### 🧠 Areas of focus
 - Backend (Python, FastAPI, Django)
